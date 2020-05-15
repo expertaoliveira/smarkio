@@ -1,0 +1,17 @@
+
+main.container {
+    height: 50vh;
+    margin: 10% auto;
+}
+
+.row {
+    margin: 5px 0;
+}
+
+.d-flex > button {
+    justify-content: space-evenly;
+}
+
+#post {
+    height: 45vh;
+}
